@@ -1,4 +1,4 @@
-This is a simple Ruby wrapper around the GatherContent API.
+This is a simple Ruby wrapper around the [GatherContent](http://gathercontent.com) API.
 
 Download and then:
 
