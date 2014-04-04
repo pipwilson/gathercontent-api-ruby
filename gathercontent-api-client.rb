@@ -7,7 +7,7 @@ class GatherContentApi
   # debug_output $stdout
 
   def initialize(subdomain, u, p)
-    self.class.base_uri('https://' + subdomain + '.gathercontent.com/api/0.2')
+    self.class.base_uri('https://' + subdomain + '.gathercontent.com/api/0.3')
     @auth = {:username => u, :password => p}
   end
 
